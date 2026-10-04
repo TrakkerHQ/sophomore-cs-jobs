@@ -1615,10 +1615,10 @@
     "id": 11824785,
     "company_display": "NVIDIA",
     "title": "Software Engineering Intern, DLFW Comms - 2027",
-    "location": "3 Locations",
+    "location": "China, Shanghai; China, Beijing; China, Shenzhen",
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--DLFW-Comms---2027_JR2025701",
     "skill_level": "intern",
-    "country": null,
+    "country": "international",
     "updated_at": "2026-09-20T15:05:12.229622+00:00",
     "date_discovered": "2026-09-20T15:06:57.122839+00:00",
     "grad_window_start": null,
@@ -1641,10 +1641,10 @@
     "id": 11903220,
     "company_display": "NVIDIA",
     "title": "Software Engineer, Simulation and Virtualization (RDSS Intern)",
-    "location": "2 Locations",
+    "location": "Taiwan, Taipei; Taiwan, Hsinchu",
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Software-Engineer--Simulation-and-Virtualization--RDSS-Intern-_JR2025783",
     "skill_level": "intern",
-    "country": null,
+    "country": "international",
     "updated_at": "2026-09-21T00:05:10.543372+00:00",
     "date_discovered": "2026-09-21T00:06:39.162543+00:00",
     "grad_window_start": null,
@@ -2340,6 +2340,19 @@
     "grad_window_end": null
   },
   {
+    "id": 12255149,
+    "company_display": "TD SYNNEX",
+    "title": "Summer 2027 Internship Program | Technical, Applied Innovation Track: \u2022 Information Technology \u2022 Supply Chain \u2022 Systems and Cloud \u2022 Artificial Intelligence",
+    "location": "Greenville, South Carolina, USA",
+    "url": "https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Greenville-SC/Summer-2027-Internship-Program---Technical--Applied-Innovation-Track----Information-Technology---Supply-Chain---Systems-and-Cloud---Artificial-Intelligence_R56571/apply",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-21T00:00:00+00:00",
+    "date_discovered": "2026-09-21T20:50:46.412196+00:00",
+    "grad_window_start": null,
+    "grad_window_end": null
+  },
+  {
     "id": 12271674,
     "company_display": "Mastercard",
     "title": "AI & Data Co-Op (Northeastern University), Spring 2027 \u2013 Purchase, NY, US",
@@ -2590,7 +2603,7 @@
     "id": 12417506,
     "company_display": "Cisco",
     "title": "Software Engineer Embedded Systems I (Intern) \u2013 United States",
-    "location": "4 Locations",
+    "location": "San Jose, California, US; Milpitas, US; RTP, North Carolina, US; San Francisco, USA",
     "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Intern----United-States_2025926",
     "skill_level": "intern",
     "country": "us",
@@ -2603,7 +2616,7 @@
     "id": 12430881,
     "company_display": "Cisco",
     "title": "Software Engineer Data & AI I (Intern) \u2013 United States",
-    "location": "4 Locations",
+    "location": "San Jose, California, US; Milpitas, US; RTP, North Carolina, US; San Francisco, USA",
     "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Data---AI-I--Intern----United-States_2026306",
     "skill_level": "intern",
     "country": "us",
@@ -3064,32 +3077,6 @@
     "country": "us",
     "updated_at": "2026-09-22T16:15:08.272375+00:00",
     "date_discovered": "2026-09-22T16:16:28.860855+00:00",
-    "grad_window_start": null,
-    "grad_window_end": null
-  },
-  {
-    "id": 12625707,
-    "company_display": "GSK",
-    "title": "Data Generation and Scientific Communication (Multiple Roles) Industrial Placement, UK 2027",
-    "location": "London, United Kingdom",
-    "url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/UK--London--New-Oxford-Street/Data-Generation-and-Scientific-Communication--Multiple-Roles--Industrial-Placement--UK-2027_447045/apply",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-22T00:00:00+00:00",
-    "date_discovered": "2026-09-22T16:17:44.488954+00:00",
-    "grad_window_start": null,
-    "grad_window_end": null
-  },
-  {
-    "id": 12629267,
-    "company_display": "Northrop Grumman",
-    "title": "2027 Cyber Systems Engineer Intern-Tampa FL",
-    "location": "United States-Florida-Tampa",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Systems-Engineer-Intern-Tampa-FL_R10249196",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-22T16:35:37.314700+00:00",
-    "date_discovered": "2026-09-22T16:37:02.739631+00:00",
     "grad_window_start": null,
     "grad_window_end": null
   },
@@ -3926,19 +3913,6 @@
     "grad_window_end": null
   },
   {
-    "id": 12647368,
-    "company_display": "Northrop Grumman",
-    "title": "2027 Cyber Software Engineer Intern - Tampa FL",
-    "location": "United States-Florida-Tampa",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Software-Engineer-Intern---Tampa-FL_R10249530",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-22T17:11:12.700147+00:00",
-    "date_discovered": "2026-09-22T17:12:44.953952+00:00",
-    "grad_window_start": null,
-    "grad_window_end": null
-  },
-  {
     "id": 12656513,
     "company_display": "Symbotic",
     "title": "Intern- Software Engineer",
@@ -4358,10 +4332,10 @@
     "id": 12954075,
     "company_display": "NVIDIA",
     "title": "Software Engineering Intern, Compiler Verification - Spring 2027",
-    "location": "2 Locations",
+    "location": "China, Beijing; China, Shanghai",
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/Software-Engineering-Intern--Compiler-Verification---Spring-2027_JR2026177",
     "skill_level": "intern",
-    "country": null,
+    "country": "international",
     "updated_at": "2026-09-23T05:00:15.578847+00:00",
     "date_discovered": "2026-09-23T05:01:41.740428+00:00",
     "grad_window_start": null,
@@ -4384,10 +4358,10 @@
     "id": 12954116,
     "company_display": "NVIDIA",
     "title": "AI Computing Software Development Intern - 2027",
-    "location": "2 Locations",
+    "location": "China, Shanghai; China, Beijing",
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Computing-Software-Development-Intern---2027_JR2026164",
     "skill_level": "intern",
-    "country": null,
+    "country": "international",
     "updated_at": "2026-09-23T05:00:15.617995+00:00",
     "date_discovered": "2026-09-23T05:01:42.404329+00:00",
     "grad_window_start": null,
@@ -4397,10 +4371,10 @@
     "id": 12954118,
     "company_display": "NVIDIA",
     "title": "Performance Software Intern, Deep Learning Libraries - 2027",
-    "location": "2 Locations",
+    "location": "China, Shanghai; China, Beijing",
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Performance-Software-Intern--Deep-Learning-Libraries---2027_JR2026171",
     "skill_level": "intern",
-    "country": null,
+    "country": "international",
     "updated_at": "2026-09-23T05:00:15.618891+00:00",
     "date_discovered": "2026-09-23T05:01:42.480452+00:00",
     "grad_window_start": null,
@@ -4410,10 +4384,10 @@
     "id": 12954119,
     "company_display": "NVIDIA",
     "title": "AI Computing Software Development Intern, LLM Inference - 2027",
-    "location": "2 Locations",
+    "location": "China, Shanghai; China, Beijing",
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Computing-Software-Development-Intern--LLM-Inference---2027_JR2026173",
     "skill_level": "intern",
-    "country": null,
+    "country": "international",
     "updated_at": "2026-09-23T05:00:15.619666+00:00",
     "date_discovered": "2026-09-23T05:01:42.505607+00:00",
     "grad_window_start": null,
@@ -4436,10 +4410,10 @@
     "id": 12961385,
     "company_display": "Dentsu",
     "title": "data Intern",
-    "location": "2 Locations",
+    "location": "Shanghai - Haisu Plaza; Nanjing",
     "url": "https://dentsuaegis.wd3.myworkdayjobs.com/en-US/DAN_GLOBAL/job/Shanghai---Haisu-Plaza/data-Intern_R1131311",
     "skill_level": "intern",
-    "country": null,
+    "country": "international",
     "updated_at": "2026-09-23T05:10:33.567125+00:00",
     "date_discovered": "2026-09-23T05:11:36.940059+00:00",
     "grad_window_start": null,
@@ -4498,19 +4472,6 @@
     "grad_window_end": null
   },
   {
-    "id": 13000950,
-    "company_display": "Arm",
-    "title": "Software Engineer Intern - CE Software",
-    "location": "Galway, Ireland",
-    "url": "https://careers.arm.com/job/galway/software-engineer-intern-ce-software/33099/101024213216",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-23T11:09:04.445973+00:00",
-    "grad_window_start": null,
-    "grad_window_end": null
-  },
-  {
     "id": 13000951,
     "company_display": "Arm",
     "title": "Software Intern - Machine Learning",
@@ -4533,6 +4494,19 @@
     "country": "international",
     "updated_at": null,
     "date_discovered": "2026-09-23T11:13:01.105772+00:00",
+    "grad_window_start": null,
+    "grad_window_end": null
+  },
+  {
+    "id": 13008059,
+    "company_display": "Marsh McLennan",
+    "title": "Marsh Insight Day - Birmingham",
+    "location": "Birmingham, United Kingdom",
+    "url": "https://mmc.wd1.myworkdayjobs.com/MMC/job/Birmingham---Brindleyplace/Marsh-Insight-Day---Birmingham_R_365250/apply",
+    "skill_level": "early_insight",
+    "country": "international",
+    "updated_at": "2026-09-23T00:00:00+00:00",
+    "date_discovered": "2026-09-23T11:18:18.761222+00:00",
     "grad_window_start": null,
     "grad_window_end": null
   },
@@ -5001,6 +4975,19 @@
     "country": "international",
     "updated_at": "2026-09-18T15:19:13.445895+00:00",
     "date_discovered": "2026-09-23T15:40:34.640132+00:00",
+    "grad_window_start": null,
+    "grad_window_end": null
+  },
+  {
+    "id": 13127544,
+    "company_display": "Amazon",
+    "title": "Accounting BI Intern, Finance Operations Accounting",
+    "location": "Bratislava, Bratislavsk\u00fd kraj, SVK",
+    "url": "https://www.amazon.jobs/en/jobs/10554314/accounting-bi-intern-finance-operations-accounting",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-21T15:19:13.725217+00:00",
+    "date_discovered": "2026-09-23T15:40:34.663007+00:00",
     "grad_window_start": null,
     "grad_window_end": null
   },
@@ -5655,32 +5642,6 @@
     "grad_window_end": null
   },
   {
-    "id": 13398768,
-    "company_display": "PwC",
-    "title": "Tax - Digital Tax (Business Data Analytics) Off-Cycle Internship (Jan - Jun 27)",
-    "location": "Singapore",
-    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Singapore/Tax---Digital-Tax--Business-Data-Analytics--Off-Cycle-Internship--Jan---Jun-27-_743507WD",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-08-25T04:02:49.011724+00:00",
-    "date_discovered": "2026-09-24T04:14:19.679907+00:00",
-    "grad_window_start": null,
-    "grad_window_end": null
-  },
-  {
-    "id": 13398779,
-    "company_display": "PwC",
-    "title": "Network Information Security Off-Cycle Internship (Jan - Jun 27)",
-    "location": "Singapore",
-    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Singapore/Network-Information-Security-Off-Cycle-Internship--Jan---Jun-27-_742370WD",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-08-25T04:03:04.745511+00:00",
-    "date_discovered": "2026-09-24T04:14:19.719176+00:00",
-    "grad_window_start": null,
-    "grad_window_end": null
-  },
-  {
     "id": 13398780,
     "company_display": "PwC",
     "title": "Operations and Change Management - Data Analyst Off-Cycle Internship (Jan - Jun 27)",
@@ -5690,19 +5651,6 @@
     "country": "international",
     "updated_at": "2026-08-25T04:03:04.746396+00:00",
     "date_discovered": "2026-09-24T04:14:19.722061+00:00",
-    "grad_window_start": null,
-    "grad_window_end": null
-  },
-  {
-    "id": 13398791,
-    "company_display": "PwC",
-    "title": "Tax - Knowledge, Analytics and Solutions Off-Cycle Internship (Jan - Jun 27)",
-    "location": "Singapore",
-    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Singapore/Tax---Knowledge--Analytics-and-Solutions-Off-Cycle-Internship--Jan---Jun-27-_737411WD",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-08-25T04:03:12.771814+00:00",
-    "date_discovered": "2026-09-24T04:14:19.754346+00:00",
     "grad_window_start": null,
     "grad_window_end": null
   },
@@ -6747,19 +6695,6 @@
     "grad_window_end": null
   },
   {
-    "id": 14128948,
-    "company_display": "Intuit",
-    "title": "Winter 2027: Software Developer Co-op (4 or 8 months)",
-    "location": "Toronto, Canada",
-    "url": "https://jobs.intuit.com/job/toronto/winter-2027-software-developer-co-op-4-or-8-months/27595/101130613680",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-25T15:40:48.671442+00:00",
-    "grad_window_start": null,
-    "grad_window_end": null
-  },
-  {
     "id": 14139465,
     "company_display": "AbbVie",
     "title": "2027 Business Technology Solutions Intern - Data & Software Engineering (Undergraduate)",
@@ -6903,19 +6838,6 @@
     "grad_window_end": null
   },
   {
-    "id": 14186838,
-    "company_display": "Cencora",
-    "title": "EDI IT Software Developer Intern",
-    "location": "Conshohocken, Pennsylvania, USA",
-    "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/EDI-IT-Software-Developer-Intern_R2612376/apply",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-25T00:00:00+00:00",
-    "date_discovered": "2026-09-25T17:45:54.764010+00:00",
-    "grad_window_start": null,
-    "grad_window_end": null
-  },
-  {
     "id": 14207872,
     "company_display": "Howmet",
     "title": "Intern \u2013 Power Platform Applications (IT)",
@@ -7055,19 +6977,6 @@
     "country": "us",
     "updated_at": "2026-09-25T21:55:21+00:00",
     "date_discovered": "2026-09-25T22:05:40.971886+00:00",
-    "grad_window_start": null,
-    "grad_window_end": null
-  },
-  {
-    "id": 14301806,
-    "company_display": "PACCAR",
-    "title": "2027 Winter Internship - Systems Administrator Intern",
-    "location": "Renton, WA",
-    "url": "https://jobs.paccar.com/job/Renton-2027-Winter-Internship-Systems-Administrator-Intern-WA-98057/1441590133/",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-25T22:12:31.897416+00:00",
     "grad_window_start": null,
     "grad_window_end": null
   },
@@ -7748,19 +7657,6 @@
     "grad_window_end": null
   },
   {
-    "id": 14829954,
-    "company_display": "Jm-Smucker",
-    "title": "Maintenance Technician (Apprentice Engineer)",
-    "location": "Emporia, KS",
-    "url": "https://smucker.wd5.myworkdayjobs.com/en-US/US_External_Careers/job/Emporia-KS/Maintenance-Technician--Apprentice-Engineer-_115684",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-08-28T22:15:46.860028+00:00",
-    "date_discovered": "2026-09-27T22:21:49.776530+00:00",
-    "grad_window_start": null,
-    "grad_window_end": null
-  },
-  {
     "id": 14830056,
     "company_display": "Interpublic",
     "title": "Credera Experience Design Intern Consultant (Design Engineering)",
@@ -7852,19 +7748,6 @@
     "grad_window_end": null
   },
   {
-    "id": 14830442,
-    "company_display": "Aerospace-Corporation",
-    "title": "2027 Space Vehicle and Ground Systems Undergraduate Intern",
-    "location": "El Segundo, CA; Chantilly, VA",
-    "url": "https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Space-Vehicle-and-Ground-Systems-Undergraduate-Intern_R016691",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-25T22:16:37.907906+00:00",
-    "date_discovered": "2026-09-27T22:26:53.716947+00:00",
-    "grad_window_start": null,
-    "grad_window_end": null
-  },
-  {
     "id": 14830687,
     "company_display": "Entegris",
     "title": "Maintenance Engineering Technician Co-Op",
@@ -7904,19 +7787,6 @@
     "grad_window_end": null
   },
   {
-    "id": 14830786,
-    "company_display": "Adient",
-    "title": "Trim Engineering Intern",
-    "location": "Plymouth, MI",
-    "url": "https://adient.wd3.myworkdayjobs.com/en-US/External/job/Plymouth-MI/Trim-Engineering-Intern_R-29447",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-25T22:17:17.948505+00:00",
-    "date_discovered": "2026-09-27T22:29:12.698864+00:00",
-    "grad_window_start": null,
-    "grad_window_end": null
-  },
-  {
     "id": 14830787,
     "company_display": "Adient",
     "title": "IT Intern",
@@ -7930,19 +7800,6 @@
     "grad_window_end": null
   },
   {
-    "id": 14830788,
-    "company_display": "Adient",
-    "title": "Engineering Intern",
-    "location": "Plymouth, MI",
-    "url": "https://adient.wd3.myworkdayjobs.com/en-US/External/job/Plymouth-MI/Engineering-Intern_R-29444",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-23T22:17:17.982179+00:00",
-    "date_discovered": "2026-09-27T22:29:12.707462+00:00",
-    "grad_window_start": null,
-    "grad_window_end": null
-  },
-  {
     "id": 14830792,
     "company_display": "Cibc",
     "title": "AI & Data Analytics and Reporting Analyst Co-op",
@@ -7952,45 +7809,6 @@
     "country": "international",
     "updated_at": "2026-09-25T22:16:40.057026+00:00",
     "date_discovered": "2026-09-27T22:29:12.741462+00:00",
-    "grad_window_start": null,
-    "grad_window_end": null
-  },
-  {
-    "id": 14830795,
-    "company_display": "Cibc",
-    "title": "Quality Assurance Analyst-Co-op Winter 2027",
-    "location": "Toronto, ON",
-    "url": "https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Quality-Assurance-Analyst-Co-op-Winter-2027_2619573",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-23T22:16:40.061557+00:00",
-    "date_discovered": "2026-09-27T22:29:12.750205+00:00",
-    "grad_window_start": null,
-    "grad_window_end": null
-  },
-  {
-    "id": 14830882,
-    "company_display": "BorgWarner",
-    "title": "Engineering Co-op Spring-Summer 2027",
-    "location": "Ithaca - New York - USA",
-    "url": "https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Ithaca---New-York---USA/Engineering-Co-op-Spring-Summer-2027_R2026-3676",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-21T22:17:21.551440+00:00",
-    "date_discovered": "2026-09-27T22:29:13.017330+00:00",
-    "grad_window_start": null,
-    "grad_window_end": null
-  },
-  {
-    "id": 14830893,
-    "company_display": "Magna",
-    "title": "Quality Engineering Co-op Student (Winter Term, 23 Month Contract)",
-    "location": "Newmarket, Ontario, CA",
-    "url": "https://magna.wd3.myworkdayjobs.com/en-US/Magna/job/Newmarket-Ontario-CA/Quality-Engineering-Co-op-Student--Winter-Term--23-Month-Contract-_R00258589",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-24T22:17:19.249932+00:00",
-    "date_discovered": "2026-09-27T22:29:13.063259+00:00",
     "grad_window_start": null,
     "grad_window_end": null
   },
@@ -8060,19 +7878,6 @@
     "grad_window_end": null
   },
   {
-    "id": 14830935,
-    "company_display": "Irhythmtech",
-    "title": "Lifecycle Engineering Co-Op Full Time Intern Jan-June 2027",
-    "location": "Orange County, CA",
-    "url": "https://irhythmtech.wd5.myworkdayjobs.com/en-US/iRhythm/job/Orange-County-CA/Lifecycle-Engineering-Co-Op-Full-Time-Intern-Jan-June-2027_JR1784-1",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-24T22:17:23.562223+00:00",
-    "date_discovered": "2026-09-27T22:29:13.188652+00:00",
-    "grad_window_start": null,
-    "grad_window_end": null
-  },
-  {
     "id": 14830936,
     "company_display": "Irhythmtech",
     "title": "System Test Engineer Co-Op Full Time Intern Jan-June 2027",
@@ -8086,41 +7891,15 @@
     "grad_window_end": null
   },
   {
-    "id": 14830937,
-    "company_display": "Irhythmtech",
-    "title": "R&D Engineering Co-op Full Time Intern Jan-June 2027",
-    "location": "San Francisco, CA",
-    "url": "https://irhythmtech.wd5.myworkdayjobs.com/en-US/iRhythm/job/San-Francisco-CA/R-D-Engineering-Co-op-Full-Time-Intern-Jan-June-2027_JR1770",
+    "id": 14830971,
+    "company_display": "Brevan-Howard",
+    "title": "2027 Summer Internship Program \u2013 Systematic Trading, London",
+    "location": "London",
+    "url": "https://brevanhoward.wd3.myworkdayjobs.com/en-US/BH_ExternalCareers/job/London/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading--London_JR101619",
     "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-24T22:17:23.586425+00:00",
-    "date_discovered": "2026-09-27T22:29:13.193135+00:00",
-    "grad_window_start": null,
-    "grad_window_end": null
-  },
-  {
-    "id": 14831079,
-    "company_display": "Snc",
-    "title": "Systems Engineer I (For 2026 Interns Only)",
-    "location": "Hagerstown, MD",
-    "url": "https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Hagerstown-MD/Systems-Engineer-I--For-2026-Interns-Only-_R0030585",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-23T22:17:33.568104+00:00",
-    "date_discovered": "2026-09-27T22:29:13.665090+00:00",
-    "grad_window_start": null,
-    "grad_window_end": null
-  },
-  {
-    "id": 14831081,
-    "company_display": "Snc",
-    "title": "Software Engineer I (For 2026 Interns Only)",
-    "location": "Plano, TX",
-    "url": "https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Plano-TX/Software-Engineer-I--For-2026-Interns-Only-_R0030584",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-23T22:17:33.568882+00:00",
-    "date_discovered": "2026-09-27T22:29:13.673811+00:00",
+    "country": "international",
+    "updated_at": "2026-09-24T22:17:29.471802+00:00",
+    "date_discovered": "2026-09-27T22:29:13.313136+00:00",
     "grad_window_start": null,
     "grad_window_end": null
   },
@@ -8190,19 +7969,6 @@
     "grad_window_end": null
   },
   {
-    "id": 14831177,
-    "company_display": "Aptiv",
-    "title": "Engineering Intern",
-    "location": "Shanghai, China",
-    "url": "https://aptiv.wd5.myworkdayjobs.com/en-US/APTIV_CAREERS/job/Shanghai-China/Engineering-Intern_J000624470-1",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-08-28T22:17:41.835794+00:00",
-    "date_discovered": "2026-09-27T22:29:13.986845+00:00",
-    "grad_window_start": null,
-    "grad_window_end": null
-  },
-  {
     "id": 14831216,
     "company_display": "Aveva",
     "title": "Software Developer Intern - Brazil",
@@ -8242,19 +8008,6 @@
     "grad_window_end": null
   },
   {
-    "id": 14831281,
-    "company_display": "Stryker",
-    "title": "Summer 2027 Internship - RA/QA - Quality Assurance - California",
-    "location": "Fremont California",
-    "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Fremont-California/Summer-2027-Internship---RA-QA---Quality-Assurance---California_R572628",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-08-31T22:17:53.718219+00:00",
-    "date_discovered": "2026-09-27T22:29:14.370153+00:00",
-    "grad_window_start": null,
-    "grad_window_end": null
-  },
-  {
     "id": 14831380,
     "company_display": "Icf",
     "title": "2027 Summer Intern, Data Scientist (Reston, VA; Denver, CO; Remote)",
@@ -8277,19 +8030,6 @@
     "country": "us",
     "updated_at": "2026-09-24T22:18:13.315366+00:00",
     "date_discovered": "2026-09-27T22:29:14.855995+00:00",
-    "grad_window_start": null,
-    "grad_window_end": null
-  },
-  {
-    "id": 14831405,
-    "company_display": "Ciena",
-    "title": "WaveLogic Software Intern Spring 2027",
-    "location": "Atlanta",
-    "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Atlanta/WaveLogic-Software-Intern-Spring-2027_R031692",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-24T22:18:13.315574+00:00",
-    "date_discovered": "2026-09-27T22:29:14.859128+00:00",
     "grad_window_start": null,
     "grad_window_end": null
   },
@@ -8632,6 +8372,19 @@
     "grad_window_end": null
   },
   {
+    "id": 15001781,
+    "company_display": "Sia Partners",
+    "title": "Final year internship - DevOps / Platform Engineer",
+    "location": "Paris, IDF",
+    "url": "https://jobs.smartrecruiters.com/Sia/744000152115350-final-year-internship-devops-platform-engineer",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-28T09:03:59.120000+00:00",
+    "date_discovered": "2026-09-28T10:01:31.636690+00:00",
+    "grad_window_start": null,
+    "grad_window_end": null
+  },
+  {
     "id": 15009028,
     "company_display": "Ge",
     "title": "Data Science -Intern",
@@ -8710,19 +8463,6 @@
     "grad_window_end": null
   },
   {
-    "id": 15112464,
-    "company_display": "Raytheon",
-    "title": "Software Engineering Intern (Summer 2027)",
-    "location": "US-IA-CEDAR RAPIDS-124 ~ 400 Collins Rd NE ~ BLDG 124",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Intern--Summer-2027-_01874556",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-28T13:42:57.609477+00:00",
-    "date_discovered": "2026-09-28T13:44:33.070924+00:00",
-    "grad_window_start": null,
-    "grad_window_end": null
-  },
-  {
     "id": 15129065,
     "company_display": "Raytheon",
     "title": "Flight Control Software Engineering Intern (Summer 2027)",
@@ -8745,19 +8485,6 @@
     "country": "us",
     "updated_at": "2026-09-28T14:15:37.235632+00:00",
     "date_discovered": "2026-09-28T14:16:55.463837+00:00",
-    "grad_window_start": null,
-    "grad_window_end": null
-  },
-  {
-    "id": 15139527,
-    "company_display": "Cummins",
-    "title": "Electronic Systems - Summer Internship Positions",
-    "location": "Columbus, IN, USA",
-    "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1006/job/2437302",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-28T00:00:00+00:00",
-    "date_discovered": "2026-09-28T14:40:48.497613+00:00",
     "grad_window_start": null,
     "grad_window_end": null
   },
@@ -9542,32 +9269,6 @@
     "grad_window_end": null
   },
   {
-    "id": 15594064,
-    "company_display": "Verizon",
-    "title": "Verizon Network and Technology: Business Intelligence Summer 2027 Internship",
-    "location": "Irving, Texas",
-    "url": "https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Irving-Texas/Verizon-Network-and-Technology--Business-Intelligence-Summer-2027-Internship_R-1101387",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-29T05:03:00.006126+00:00",
-    "date_discovered": "2026-09-29T05:03:17.935483+00:00",
-    "grad_window_start": null,
-    "grad_window_end": null
-  },
-  {
-    "id": 15594065,
-    "company_display": "Verizon",
-    "title": "Verizon Network and Technology: Data Science Summer 2027 Internship",
-    "location": "Irving, Texas",
-    "url": "https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Irving-Texas/Verizon-Network-and-Technology--Data-Science-Summer-2027-Internship_R-1101384",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-29T05:03:00.006646+00:00",
-    "date_discovered": "2026-09-29T05:03:18.065484+00:00",
-    "grad_window_start": null,
-    "grad_window_end": null
-  },
-  {
     "id": 15600007,
     "company_display": "W.W. Grainger",
     "title": "Business Analyst Intern",
@@ -9828,19 +9529,6 @@
     "grad_window_end": null
   },
   {
-    "id": 15808246,
-    "company_display": "Raytheon",
-    "title": "Software Engineering Intern (Summer 2027)",
-    "location": "US-MA-WOBURN-WB1 ~ 235 Presidential Way ~ SPENCER BLDG",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineering--Intern--Summer-2027-_01877561",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-29T14:12:53.007862+00:00",
-    "date_discovered": "2026-09-29T14:14:07.133142+00:00",
-    "grad_window_start": null,
-    "grad_window_end": null
-  },
-  {
     "id": 15815877,
     "company_display": "Marvell",
     "title": "AI-Native Development Platform Engineer Intern, MS - Summer 2027",
@@ -9984,19 +9672,6 @@
     "grad_window_end": null
   },
   {
-    "id": 15908132,
-    "company_display": "Verisk",
-    "title": "Risk Analyst | 2027 Summer Internship Program",
-    "location": "Boston, MA, USA",
-    "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4740",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-03T00:00:00+00:00",
-    "date_discovered": "2026-09-29T16:58:21.766554+00:00",
-    "grad_window_start": null,
-    "grad_window_end": null
-  },
-  {
     "id": 15908475,
     "company_display": "Dtcc",
     "title": "Model Risk Management Intern [2027 Internship Program]",
@@ -10047,6 +9722,19 @@
     "date_discovered": "2026-09-29T18:59:16.135668+00:00",
     "grad_window_start": "2028-01",
     "grad_window_end": "2030-12"
+  },
+  {
+    "id": 15983756,
+    "company_display": "BAE Systems",
+    "title": "Information Technology - Project Management & Architecture Intern, Summer 2027",
+    "location": "Westminster, Colorado, USA",
+    "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25771&siteid=5403&jobid=304534",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-29T19:01:56.064000+00:00",
+    "date_discovered": "2026-09-29T19:04:14.480600+00:00",
+    "grad_window_start": null,
+    "grad_window_end": null
   },
   {
     "id": 15984052,
@@ -10198,7 +9886,7 @@
     "location": "Billund",
     "url": "https://lego.wd103.myworkdayjobs.com/en-US/LEGO_External/job/Billund/Student-Worker---Data---Digital-Analytics_0000038008",
     "skill_level": "intern",
-    "country": null,
+    "country": "international",
     "updated_at": "2026-09-29T22:05:36.613231+00:00",
     "date_discovered": "2026-09-29T22:05:37.345717+00:00",
     "grad_window_start": null,
@@ -10227,19 +9915,6 @@
     "country": "us",
     "updated_at": "2026-09-29T22:11:00+00:00",
     "date_discovered": "2026-09-29T22:31:35.286183+00:00",
-    "grad_window_start": null,
-    "grad_window_end": null
-  },
-  {
-    "id": 16114448,
-    "company_display": "Raytheon",
-    "title": "Software Engineering Intern (Summer 2027)",
-    "location": "US-IA-CEDAR RAPIDS-166 ~ 855 35Th St NE ~ BLDG 166",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Intern--Summer-2027-_01876388",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-29T22:56:12.351766+00:00",
-    "date_discovered": "2026-09-29T22:59:11.854154+00:00",
     "grad_window_start": null,
     "grad_window_end": null
   },
@@ -10647,19 +10322,6 @@
     "grad_window_end": null
   },
   {
-    "id": 16497728,
-    "company_display": "TE Connectivity",
-    "title": "R&D PRODUCT DEVELOPMENT ENGINEERING INTERN",
-    "location": "MIDDLETOWN",
-    "url": "https://careers.te.com/job/MIDDLETOWN-R&D-PRODUCT-DEVELOPMENT-ENGINEERING-INTERN-PA-17057-3172/1435287900/",
-    "skill_level": "intern",
-    "country": null,
-    "updated_at": null,
-    "date_discovered": "2026-09-30T14:14:39.446012+00:00",
-    "grad_window_start": null,
-    "grad_window_end": null
-  },
-  {
     "id": 16524586,
     "company_display": "EA",
     "title": "AI Enablement Intern (Summer 2027)",
@@ -10920,19 +10582,6 @@
     "grad_window_end": "2029-09"
   },
   {
-    "id": 16607808,
-    "company_display": "Intel",
-    "title": "Research Scientist Intern - Graphics, ML",
-    "location": "Virtual US",
-    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-30T17:35:42.301284+00:00",
-    "date_discovered": "2026-09-30T17:36:19.960411+00:00",
-    "grad_window_start": null,
-    "grad_window_end": null
-  },
-  {
     "id": 16613009,
     "company_display": "Netapp",
     "title": "Data Science Intern",
@@ -11085,19 +10734,6 @@
     "country": "international",
     "updated_at": "2026-09-30T19:41:10+00:00",
     "date_discovered": "2026-09-30T20:06:43.299267+00:00",
-    "grad_window_start": null,
-    "grad_window_end": null
-  },
-  {
-    "id": 16708818,
-    "company_display": "Oshkosh",
-    "title": "Electrification Engineer Intern",
-    "location": "Oshkosh, Wisconsin, USA",
-    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Electrification-Engineer-Intern_R50654-1/apply",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-30T00:00:00+00:00",
-    "date_discovered": "2026-09-30T20:18:34.881680+00:00",
     "grad_window_start": null,
     "grad_window_end": null
   },
@@ -11401,45 +11037,6 @@
     "grad_window_end": null
   },
   {
-    "id": 16987661,
-    "company_display": "Southwest Airlines",
-    "title": "Summer 2027 Data Engineer Internship",
-    "location": "Not specified",
-    "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Data-Engineer-Internship_R-2026-73271/apply",
-    "skill_level": "intern",
-    "country": null,
-    "updated_at": "2026-10-01T00:00:00+00:00",
-    "date_discovered": "2026-10-01T05:11:53.600695+00:00",
-    "grad_window_start": null,
-    "grad_window_end": null
-  },
-  {
-    "id": 17005575,
-    "company_display": "Southwest Airlines",
-    "title": "Summer 2027 Cybersecurity Engineer Internship",
-    "location": "Not specified",
-    "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Cybersecurity-Engineer-Internship_R-2026-73269/apply",
-    "skill_level": "intern",
-    "country": null,
-    "updated_at": "2026-10-01T00:00:00+00:00",
-    "date_discovered": "2026-10-01T06:12:38.122445+00:00",
-    "grad_window_start": null,
-    "grad_window_end": null
-  },
-  {
-    "id": 17005576,
-    "company_display": "Southwest Airlines",
-    "title": "Summer 2027 Software Engineer Internship",
-    "location": "Not specified",
-    "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Software-Engineer-Internship_R-2026-73270/apply",
-    "skill_level": "intern",
-    "country": null,
-    "updated_at": "2026-10-01T00:00:00+00:00",
-    "date_discovered": "2026-10-01T06:12:38.127080+00:00",
-    "grad_window_start": null,
-    "grad_window_end": null
-  },
-  {
     "id": 17038267,
     "company_display": "Merck",
     "title": "Intern- Quality Associate Lab and Data Analyst",
@@ -11605,19 +11202,6 @@
     "country": "international",
     "updated_at": null,
     "date_discovered": "2026-10-01T13:42:24.210945+00:00",
-    "grad_window_start": null,
-    "grad_window_end": null
-  },
-  {
-    "id": 17180538,
-    "company_display": "Southwest Airlines",
-    "title": "Summer 2027 Revenue Management Analyst Internship",
-    "location": "Not specified",
-    "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Revenue-Management-Analyst-Internship_R-2026-73263/apply",
-    "skill_level": "intern",
-    "country": null,
-    "updated_at": "2026-10-01T00:00:00+00:00",
-    "date_discovered": "2026-10-01T13:46:24.112602+00:00",
     "grad_window_start": null,
     "grad_window_end": null
   },
@@ -12116,19 +11700,6 @@
     "grad_window_end": null
   },
   {
-    "id": 17345875,
-    "company_display": "Aerospace-Corporation",
-    "title": "2027 Systems Integration and Test Engineer Graduate Intern",
-    "location": "Chantilly, VA",
-    "url": "https://aero.wd5.myworkdayjobs.com/en-US/External/job/Chantilly-VA/XMLNAME-2027-Systems-Integration-and-Test-Engineer-Graduate-Intern_R016696",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-01T18:24:19.709246+00:00",
-    "date_discovered": "2026-10-01T18:24:21.409399+00:00",
-    "grad_window_start": null,
-    "grad_window_end": null
-  },
-  {
     "id": 17357779,
     "company_display": "Raytheon",
     "title": "Flight Control Software Engineering Intern (Summer 2027) (Open)",
@@ -12184,10 +11755,10 @@
     "id": 17382613,
     "company_display": "Cigna",
     "title": "Product Analytics Summer Intern - Start Date: May 24, 2027",
-    "location": "2 Locations",
+    "location": "Morris Plains, NJ; St. Louis, MO",
     "url": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Morris-Plains-NJ/Product-Analytics-Summer-Intern---Start-Date--May-24--2027_26010180",
     "skill_level": "intern",
-    "country": null,
+    "country": "us",
     "updated_at": "2026-10-01T19:26:48.738581+00:00",
     "date_discovered": "2026-10-01T19:26:48.976407+00:00",
     "grad_window_start": null,
@@ -12311,19 +11882,6 @@
     "grad_window_end": null
   },
   {
-    "id": 17463244,
-    "company_display": "Raytheon",
-    "title": "Aftermarket and Sustainment Engineering - Structures Engineer Co-Op (January 2027) (Hybrid)",
-    "location": "US-PR-AGUADILLA-110 ~ Rd 110 N Km 28.8 ~ RD110",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Aftermarket-and-Sustainment-Engineering---Structures-Engineer-Co-Op--January-2027---Hybrid-_01874274",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-01T21:46:47.769636+00:00",
-    "date_discovered": "2026-10-01T21:50:48.886259+00:00",
-    "grad_window_start": null,
-    "grad_window_end": null
-  },
-  {
     "id": 17491472,
     "company_display": "Waymo",
     "title": "2027 Summer Intern, MS/PhD, AI-driven ML Performance Engineering Intern",
@@ -12363,19 +11921,6 @@
     "grad_window_end": null
   },
   {
-    "id": 17518881,
-    "company_display": "Johnson & Johnson",
-    "title": "Asset Management Engineer Co-Op",
-    "location": "Anasco, Puerto Rico, USA",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/jj/job/Anasco-Puerto-Rico-United-States-of-America/Asset-Management-Engineer-Co-Op_R-078283",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-01T23:19:56.051756+00:00",
-    "date_discovered": "2026-10-01T23:21:12.087973+00:00",
-    "grad_window_start": null,
-    "grad_window_end": null
-  },
-  {
     "id": 17532725,
     "company_display": "IBM",
     "title": "Cloud Infrastructure Network Monitoring and Automation Software Engineer Intern - Austin, TX - 2027",
@@ -12400,19 +11945,6 @@
     "date_discovered": "2026-10-02T06:02:51.602385+00:00",
     "grad_window_start": "2028-05",
     "grad_window_end": "2029-06"
-  },
-  {
-    "id": 17706766,
-    "company_display": "Google",
-    "title": "Business Analyst MBA Intern, 2027",
-    "location": "Dublin, Ireland",
-    "url": "https://careers.google.com/jobs/results/82600333812867782-business-analyst-mba-intern/",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-10-02T06:04:15.945250+00:00",
-    "grad_window_start": null,
-    "grad_window_end": null
   },
   {
     "id": 17724646,
@@ -12675,19 +12207,6 @@
     "grad_window_end": null
   },
   {
-    "id": 17897408,
-    "company_display": "Amazon",
-    "title": "(Physical) Security Specialist Intern - 2027 Internship",
-    "location": "Zaragoza, Aragon, ESP",
-    "url": "https://www.amazon.jobs/en/jobs/10567769/physical-security-specialist-intern-2027-internship",
-    "skill_level": "intern",
-    "country": null,
-    "updated_at": null,
-    "date_discovered": "2026-10-02T13:49:49.280884+00:00",
-    "grad_window_start": null,
-    "grad_window_end": null
-  },
-  {
     "id": 17905161,
     "company_display": "Sas-Institute",
     "title": "Software Developer in Test Intern",
@@ -12853,19 +12372,6 @@
     "country": "us",
     "updated_at": null,
     "date_discovered": "2026-10-02T15:40:26.058654+00:00",
-    "grad_window_start": null,
-    "grad_window_end": null
-  },
-  {
-    "id": 17959027,
-    "company_display": "Northrop Grumman",
-    "title": "2027 Engineering Intern - Northridge CA",
-    "location": "United States-California-Northridge",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Northridge/XMLNAME-2027-Engineering-Intern---Northridge-CA_R10254123-1",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-02T15:38:25.577868+00:00",
-    "date_discovered": "2026-10-02T15:42:06.385339+00:00",
     "grad_window_start": null,
     "grad_window_end": null
   },
@@ -13204,6 +12710,32 @@
     "country": "us",
     "updated_at": null,
     "date_discovered": "2026-10-03T01:08:44.507438+00:00",
+    "grad_window_start": null,
+    "grad_window_end": null
+  },
+  {
+    "id": 18384556,
+    "company_display": "Revvity",
+    "title": "Software Integration Co-Op (Spring 2027)",
+    "location": "Akron",
+    "url": "https://revvity.wd103.myworkdayjobs.com/en-US/External/job/Akron/Software-Integration-Co-Op--Spring-2027-_JR-045616",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-03T10:43:31.086266+00:00",
+    "date_discovered": "2026-10-03T10:43:31.671072+00:00",
+    "grad_window_start": "2029-01",
+    "grad_window_end": "2029-12"
+  },
+  {
+    "id": 18385143,
+    "company_display": "Disney",
+    "title": "Finance & Data Intern, Spring 2027",
+    "location": "Anaheim, CA, USA",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Finance---Data-Intern--Spring-2027_10160502-1",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-03T18:11:31.212170+00:00",
+    "date_discovered": "2026-10-03T18:11:33.644586+00:00",
     "grad_window_start": null,
     "grad_window_end": null
   }
