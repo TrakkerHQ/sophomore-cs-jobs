@@ -141,6 +141,40 @@ def age_days(job: dict, now: datetime) -> int | None:
     return None if when is None else max(0, (now - when).days)
 
 
+
+# Trakker's "Data" category is broad on purpose (the product lets a business
+# student pick it too), so a CS list needs its own last word on titles. A row
+# goes only when its title names a business function AND no technical one:
+# "Business Strategy & Special Project Intern (TikTok Shop)" goes, "Data
+# Analyst Intern, Global Selling" stays, "Business Analyst Intern" goes,
+# "Software Engineer, Business Systems" stays. Measured 2026-10-04 on the
+# freshman list: 66 of 967 rows had no technical word in the title, mostly
+# TikTok Shop strategy/operations roles.
+_TECH = re.compile(
+    r"software|engineer|develop|program|data scien|data engineer|data analy|data|machine learning|\bml\b|\bai\b|a\.i\.|artificial"
+    r"|quant|research|comput|cyber|security|cloud|devops|\bsre\b|full.?stack|front.?end|back.?end"
+    r"|\bweb\b|mobile|\bios\b|android|algorithm|robot|firmware|embedded|systems|analytics"
+    r"|\bit\b|information tech|database|\bswe\b|\bsde\b|technolog|automation|\brpa\b|infrastructure",
+    re.I,
+)
+_BUSINESS = re.compile(
+    r"strategy|operations|campaign|business analyst|finance|accounting|audit"
+    r"|\btax\b|marketing|\bsales\b|merchandis|seller|creator|governance|compliance|procurement|supply"
+    r"|planner|investment analyst|economics",
+    re.I,
+)
+
+
+def is_cs_role(title: str) -> bool:
+    tech_words = _TECH.findall(title or "")
+    # A bare "data" does not outweigh a business function ("Finance Data
+    # Operations Intern" is finance); "data scientist/engineer/analyst" does.
+    real_tech = [w for w in tech_words if w.lower() != "data"]
+    if not _BUSINESS.search(title or ""):
+        return True
+    return bool(real_tech)
+
+
 def load_stored() -> dict[int, dict]:
     if not DATA_PATH.exists():
         return {}
@@ -156,12 +190,16 @@ def merge(stored: dict[int, dict], fetched: list[dict], now: datetime) -> dict[i
             continue
         if age <= RECONCILE_MAX_AGE_DAYS and job_id not in fetched_ids:
             continue
+        if not is_cs_role(row.get("title")):
+            continue
         merged[job_id] = row
     for job in fetched:
         # Only http(s) links reach a public table.
         if not str(job.get("url") or "").startswith(("https://", "http://")):
             continue
         if not job.get("company_display") or not job.get("title"):
+            continue
+        if not is_cs_role(job["title"]):
             continue
         merged[job["id"]] = {key: job.get(key) for key in PUBLIC_FIELDS}
     return merged
@@ -211,13 +249,30 @@ def eligibility(row: dict) -> str:
     return f"Class of {first}+" if first is not None else f"Class of {last} or earlier"
 
 
+def posting_url(url: str) -> str:
+    """The posting, not the sign-in step in front of applying. Jibe boards
+    (Garmin, Keysight) hand Trakker iCIMS's apply link, .../jobs/<id>/login,
+    which opens on a login form; .../jobs/<id>/job is the same posting's page.
+    37 of 49 iCIMS links in the freshman list were the login form (2026-10-04)."""
+    if "icims.com/jobs/" in url and url.rstrip("/").endswith("/login"):
+        return url.rstrip("/")[: -len("login")] + "job"
+    return url
+
+
+def place(location: str | None) -> str | None:
+    """The place, without what some boards append after a bullet: EA sends
+    "Austin, United States of America • Role ID 216239 • Intern - Temporary
+    Employee • CT - Infrastructure & Platform"."""
+    return (location or "").split(" • ")[0].strip() or location
+
+
 def render_table(rows: list[dict], now: datetime) -> str:
     lines = ["| Company | Position | Location | Eligibility | Posting | Age |",
              "|---|---|---|---|---|---|"]
     for row in rows:
-        href = row["url"].replace('"', "%22")
+        href = posting_url(row["url"]).replace('"', "%22")
         lines.append(
-            f"| **{cell(row['company_display'])}** | {cell(row['title'])} | {cell(row['location'])} "
+            f"| **{cell(row['company_display'])}** | {cell(row['title'])} | {cell(place(row['location']))} "
             f"| {eligibility(row)} "
             f"| <a href=\"{href}\"><img src=\"{APPLY_BUTTON}\" alt=\"Apply\" height=\"36\"/></a> "
             f"| {age_days(row, now) or 0}d |"

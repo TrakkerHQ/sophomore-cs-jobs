@@ -11,6 +11,8 @@ Software engineering, data, AI/ML and quant internships and insight programs ope
 
 Last updated: <!-- UPDATED -->2026-10-05
 
+**Get new ones by email.** [Trakker](https://app.trakkerhq.com/sign-up?src=gh-sophomore) watches the same career pages and sends you a free daily email of new internships, from the companies you pick.
+
 <a id="usa"></a>
 
 ## 🦅 USA
